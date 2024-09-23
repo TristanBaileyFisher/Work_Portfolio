@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Duru";
+  src: url("assets/fonts/DuruSans-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Drexs";
+  src: url("assets/fonts/Drexs.ttf");
+}
